@@ -1,2 +1,6 @@
+Completed courses:
 TESD 1100 Client-side Web Development
 TESD -1 Admission Assessment Requirements
+SDEV 0000 Software Development Program Orientation
+TESD 2000 Version Control: Module 1: Git
+
